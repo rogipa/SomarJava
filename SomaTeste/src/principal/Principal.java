@@ -10,7 +10,7 @@ public class Principal {
 		Somar s = new Somar();
 		
 		
-		System.out.println(s.somar(5, 5));		
+		System.out.println("Resultado = " + s.somar(5, 5));		
 
 	}
 
